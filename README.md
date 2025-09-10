@@ -30,10 +30,10 @@
 
 ## 📂 Featured Projects
 
-- 🌟 [**Restaurant Management API**](https://github.com/Neyilson/restaurant-api)  
+- 🌟 [**Restaurant Management API**](https://github.com/Neyilson/LittlelemonAPI)
   _Django RESTful API with authentication, role-based permissions, and CRUD operations._  
 
-- 🌟 [**Web Catalog**](https://github.com/Neyilson/web-catalog)  
+- 🌟 [**Web Catalog**](https://github.com/Neyilson/WebCatalog)  
   _Full-stack responsive application using Python, MySQL, HTML, CSS, JavaScript, and Bootstrap._  
 
 ---
